@@ -31,7 +31,7 @@ We're committed to open source development and upstream contributions. If you fi
 # Want to work with us?
 We're building a European network of managed service providers and resellers who want to offer digital sovereignty solutions. We offer MSPs the tools they need to help any organisation achieve digital sovereignty. 
 
-Interested in partnering? Email us at niels@mosa.cloud or riel@mosa.cloud.
+Interested in partnering? Email us at hi@mosa.cloud.
 
 # About
 Mosa is named after the river flowing through Maastricht, the city where the European Union 🇪🇺 was born. Just as that treaty united nations in collaboration, we're continuing that spirit through open source software.
